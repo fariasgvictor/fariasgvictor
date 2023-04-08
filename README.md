@@ -1,5 +1,8 @@
 ### Hi there! 👋
 
+#### Other language option:
+
+- [Português](./pt-br/README.md).
 
 
 <!--
